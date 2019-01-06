@@ -1,7 +1,3 @@
-/*  Navaneethakrishnan
- *  Ramanathan
- *  nramanat
- */
 #include <memory>
 #include <algorithm>
 #include <cuda_runtime_api.h>
